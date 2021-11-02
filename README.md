@@ -8,3 +8,5 @@
 #Clean code python implementation ----- https://github.com/zedr/clean-code-python
 
 #Algorithms implementation on Python  -----https://github.com/TheAlgorithms/Python
+
+#Python interview questions -----------https://github.com/learning-zone/python-interview-questions
