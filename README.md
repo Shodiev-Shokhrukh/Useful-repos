@@ -12,3 +12,5 @@
 #Python interview questions -----------https://github.com/learning-zone/python-interview-questions
 
 #elasticsearch integration ------------ https://github.com/TamerlanG/drf-elasticsearch-demo
+
+#awesome repose  -------------------------- https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm
