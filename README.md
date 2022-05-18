@@ -14,3 +14,5 @@
 #elasticsearch integration ------------ https://github.com/TamerlanG/drf-elasticsearch-demo
 
 #awesome repose  -------------------------- https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm
+
+#awesome test assignments  ----------------------------------------- https://github.com/Hexlet/ru-test-assignments
