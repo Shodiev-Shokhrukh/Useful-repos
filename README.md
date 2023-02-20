@@ -16,3 +16,5 @@
 #awesome repose  -------------------------- https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm
 
 #awesome test assignments  ----------------------------------------- https://github.com/Hexlet/ru-test-assignments
+
+https://levelup.gitconnected.com/25-github-repositories-every-python-developer-should-know-ac848f6aa1fe
